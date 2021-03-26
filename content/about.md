@@ -9,6 +9,6 @@ author = "CEO"
 tags = []
 +++
 
-Ribosome is a start-up company based in Tokyo.  
-Building trustless apps powered by zk-SNARKs.
+Ribosome is a start-up company based in Japan.   
+Making zk-SNARKs faster.
 <!-- more -->

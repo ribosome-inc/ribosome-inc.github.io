@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ribosome-inc.github.io/sitemap.xml

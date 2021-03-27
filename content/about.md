@@ -10,5 +10,6 @@ tags = []
 +++
 
 Ribosome is a start-up company based in Japan.   
-Making zk-SNARKs faster.
+Making zk-SNARKs faster.  
+Currently working on a PLONK implementation for FPGA.
 <!-- more -->
